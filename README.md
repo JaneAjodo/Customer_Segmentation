@@ -17,10 +17,10 @@ Segmented mall customers into 4 meaningful groups using K-Means and PCA visualiz
 
 | Cluster | Description                   |
 |---------|-------------------------------|
-| 0       | 🟣 Older Female Moderate Spenders |
-| 1       | 🔵 Young Male High Spenders       |
-| 2       | 🟢 Young Female High Spenders     |
-| 3       | 🔴 Older Male Low Spenders        |
+| 0       | Older Female Moderate Spenders |
+| 1       | Young Male High Spenders       |
+| 2       | Young Female High Spenders     |
+| 3       | Older Male Low Spenders        |
 
 ## 📉 Visuals
 - PCA Cluster Scatterplot
